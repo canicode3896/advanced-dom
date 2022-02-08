@@ -2,6 +2,7 @@
   "version": "",
   "source": "src/main.js",
   "main": "dist/advanced-dom.js",
+  "author": "https://github.com/canicode3896/advanced-dom/graphs/contributors",
   "devDependencies": {
     "parcel": "^2.2.1"
   }
