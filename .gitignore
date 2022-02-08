@@ -1,5 +1,7 @@
+# If you use any tools which generate config files or logs please gitignore them here
+
+
 # These are my (Canicode3896) gitignore lines for yarn and parcel.js
 yarn.lock
-package.json
 node_modules/
 
