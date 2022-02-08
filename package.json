@@ -1,4 +1,7 @@
-{
+{ "name": "advanced-dom",
+  "version": "",
+  "source": "src/main.js",
+  "main": "dist/advanced-dom.js",
   "devDependencies": {
     "parcel": "^2.2.1"
   }
